@@ -1,4 +1,4 @@
-
+Alfred for macOS advanced Module: disk-analysis & VM-management offers the most advanced Alfred for macOS module, with disk-analysis and VM-management. Ideal for macOS power users.
 
 
 
